@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "git+https://github.com/vronney/updatedPortfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Ron Vargas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
