@@ -11,7 +11,7 @@ Feel free to use it as-is or customize it as much as you want. I was motivated t
 
 To view a demo example, **[click here](https://simplfolio.netlify.com/)**
 
-To view a live example, **[click here](https://cobidev.com/)**
+To view a live example, **[click here](https://pensive-newton-b92e58.netlify.com/)**
 
 ---
 
