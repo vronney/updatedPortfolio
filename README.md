@@ -290,6 +290,7 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 ## Authors
 
 - **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Ron Vargas** - [https://github.com/vronney](https://github.com/vronney)
 
 ## Status
 
